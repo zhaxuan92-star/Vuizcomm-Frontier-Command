@@ -1,1 +1,1 @@
-# Vuizcomm Frontier Command uses no custom ProGuard rules.
+# No custom shrinker rules are required.
